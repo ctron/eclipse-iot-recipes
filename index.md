@@ -24,4 +24,4 @@ Before getting started, you will need to ensure a few re-requisites are in place
 
 ## Development
 
-* Using Eclipse Che (to be added)
+* Using [Eclipse Che](development/che.html)
